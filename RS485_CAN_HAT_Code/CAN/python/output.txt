@@ -1,0 +1,998 @@
+Timestamp: 1670400913.819686        ID: 0202    S Rx                DL:  8    bc a9 ff 49 3d 89 e5 80     Channel: can0
+Timestamp: 1670400913.820053        ID: 0201    S Rx                DL:  8    04 c5 18 00 04 69 08 05     Channel: can0
+Timestamp: 1670400913.820519        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.820691        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 ab ca     Channel: can0
+Timestamp: 1670400913.821093        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a 11 30     Channel: can0
+Timestamp: 1670400913.821330        ID: 0202    S Rx                DL:  8    34 34 38 20 5b 4c 2d 53     Channel: can0
+Timestamp: 1670400913.821535        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 30     Channel: can0
+Timestamp: 1670400913.821760        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400913.821927        ID: 0202    S Rx                DL:  8    77 61 72 6e 69 6e 67 00     Channel: can0
+Timestamp: 1670400913.822059        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.822282        ID: 0202    S Rx                DL:  2    99 43                       Channel: can0
+Timestamp: 1670400913.822449        ID: 0203    S Rx                DL:  8    2b 01 00 4b fc 00 00 00     Channel: can0
+Timestamp: 1670400913.822676        ID: 0203    S Rx                DL:  5    5a a9 bd 07 33              Channel: can0
+Timestamp: 1670400913.822841        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 ef 1d     Channel: can0
+Timestamp: 1670400913.823195        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 f1 1d     Channel: can0
+Timestamp: 1670400913.823363        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 13 01        Channel: can0
+Timestamp: 1670400913.828246        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 10 30     Channel: can0
+Timestamp: 1670400913.828482        ID: 0201    S Rx                DL:  6    a0 48 08 01 48 7e           Channel: can0
+Timestamp: 1670400913.828697        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 c7 18     Channel: can0
+Timestamp: 1670400913.828923        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400913.889270        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400913.889580        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.889809        ID: 0201    S Rx                DL:  7    00 00 00 00 01 4e 6d        Channel: can0
+Timestamp: 1670400913.890974        ID: 0201    S Rx                DL:  8    55 0f 04 a2 f1 c3 be 02     Channel: can0
+Timestamp: 1670400913.891220        ID: 0201    S Rx                DL:  7    00 0a 53 32 00 05 ac        Channel: can0
+Timestamp: 1670400913.891680        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 96 0e     Channel: can0
+Timestamp: 1670400913.891911        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400913.892041        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.892262        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 f6 1d     Channel: can0
+Timestamp: 1670400913.892430        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc d5     Channel: can0
+Timestamp: 1670400913.892569        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.892796        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 f8 1d     Channel: can0
+Timestamp: 1670400913.892968        ID: 0202    S Rx                DL:  8    00 08 22 9f 04 0f 0a 7f     Channel: can0
+Timestamp: 1670400913.893269        ID: 0202    S Rx                DL:  8    bb 71 64 a5 bd 7c 28 2b     Channel: can0
+Timestamp: 1670400913.893436        ID: 0203    S Rx                DL:  8    00 00 f0 04 00 be 59 04     Channel: can0
+Timestamp: 1670400913.893737        ID: 0203    S Rx                DL:  8    1a b3 0b 00 19 12 1a 52     Channel: can0
+Timestamp: 1670400913.893915        ID: 0203    S Rx                DL:  8    1a 3e 1a 1a 1a a3 34 1b     Channel: can0
+Timestamp: 1670400913.894229        ID: 0203    S Rx                DL:  8    00 e2 e9 e1 a9 e1 c5 e1     Channel: can0
+Timestamp: 1670400913.894403        ID: 0203    S Rx                DL:  8    e1 e1 2c cf e0 e1 65 32     Channel: can0
+Timestamp: 1670400913.894684        ID: 0203    S Rx                DL:  8    45 86 50 41 4a aa ac 6a     Channel: can0
+Timestamp: 1670400913.894846        ID: 0203    S Rx                DL:  8    26 8b 50 3f 64 b9 ac b1     Channel: can0
+Timestamp: 1670400913.895145        ID: 0203    S Rx                DL:  1    ce                          Channel: can0
+Timestamp: 1670400913.895308        ID: 0203    S Rx                DL:  8    00 00 f0 04 91 91 93 90     Channel: can0
+Timestamp: 1670400913.895582        ID: 0203    S Rx                DL:  8    28 00 6c d4 07 91 b4 0b     Channel: can0
+Timestamp: 1670400913.895741        ID: 0203    S Rx                DL:  8    91 6e d0 c0 2b 6b 7e 13     Channel: can0
+Timestamp: 1670400913.977185        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 28 30     Channel: can0
+Timestamp: 1670400913.977443        ID: 0202    S Rx                DL:  8    20 48 08 00 01 36 2f 01     Channel: can0
+Timestamp: 1670400913.977587        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.977818        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.977990        ID: 0202    S Rx                DL:  8    21 49 39 00 00 00 00 96     Channel: can0
+Timestamp: 1670400913.978166        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.978611        ID: 0202    S Rx                DL:  8    0d 27 7b d9 7f ea b5 00     Channel: can0
+Timestamp: 1670400913.978996        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.979232        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400913.979638        ID: 0202    S Rx                DL:  8    3b b8 43 0d 39 01 00 00     Channel: can0
+Timestamp: 1670400913.979812        ID: 0201    S Rx                DL:  8    04 a4 0e 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400913.980171        ID: 0201    S Rx                DL:  8    04 d5 18 00 04 69 08 05     Channel: can0
+Timestamp: 1670400913.980344        ID: 0201    S Rx                DL:  7    00 00 00 00 01 2f f7        Channel: can0
+Timestamp: 1670400913.980636        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 93 59     Channel: can0
+Timestamp: 1670400913.981124        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a 29 30     Channel: can0
+Timestamp: 1670400913.981364        ID: 0202    S Rx                DL:  8    35 31 32 20 5b 4c 2d 53     Channel: can0
+Timestamp: 1670400913.981536        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 30     Channel: can0
+Timestamp: 1670400913.981767        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400913.981910        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400913.982146        ID: 0202    S Rx                DL:  2    c8 00                       Channel: can0
+Timestamp: 1670400913.982635        ID: 0203    S Rx                DL:  8    00 00 00 86 05 7f 3f 08     Channel: can0
+Timestamp: 1670400913.982806        ID: 0203    S Rx                DL:  5    5e a9 bd 17 ed              Channel: can0
+Timestamp: 1670400913.983338        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 3f 9a        Channel: can0
+Timestamp: 1670400913.985297        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 28 30     Channel: can0
+Timestamp: 1670400913.985563        ID: 0201    S Rx                DL:  6    a0 48 08 01 c0 98           Channel: can0
+Timestamp: 1670400914.034085        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 30 30     Channel: can0
+Timestamp: 1670400914.034325        ID: 0203    S Rx                DL:  6    a0 48 08 01 f5 41           Channel: can0
+Timestamp: 1670400914.037409        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 31 30     Channel: can0
+Timestamp: 1670400914.037655        ID: 0202    S Rx                DL:  8    20 48 08 00 01 72 2f 01     Channel: can0
+Timestamp: 1670400914.037787        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.038009        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.038175        ID: 0202    S Rx                DL:  8    1d 98 b9 00 00 00 00 11     Channel: can0
+Timestamp: 1670400914.038429        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 00 00 f8     Channel: can0
+Timestamp: 1670400914.038565        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.038789        ID: 0202    S Rx                DL:  8    00 10 b6 00 00 11 b6 00     Channel: can0
+Timestamp: 1670400914.038955        ID: 0202    S Rx                DL:  8    ff fd ff f9 ff 46 34 08     Channel: can0
+Timestamp: 1670400914.039084        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.039299        ID: 0202    S Rx                DL:  8    00 ae eb 59 40 05 e3 93     Channel: can0
+Timestamp: 1670400914.039466        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400914.039753        ID: 0202    S Rx                DL:  8    bc 4e 4f 4d 3d 95 2f 81     Channel: can0
+Timestamp: 1670400914.039915        ID: 0202    S Rx                DL:  8    bf 4d 09 52 ba 24 d9 2d     Channel: can0
+Timestamp: 1670400914.040188        ID: 0202    S Rx                DL:  8    3b 75 7d a8 b9 01 00 00     Channel: can0
+Timestamp: 1670400914.040350        ID: 0202    S Rx                DL:  8    00 f8 c7 13 c1 b6 5e 8e     Channel: can0
+Timestamp: 1670400914.040630        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.040789        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 1d c7     Channel: can0
+Timestamp: 1670400914.041140        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a 32 30     Channel: can0
+Timestamp: 1670400914.041357        ID: 0202    S Rx                DL:  8    35 33 36 20 5b 4c 2d 53     Channel: can0
+Timestamp: 1670400914.041515        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 30     Channel: can0
+Timestamp: 1670400914.041731        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400914.041857        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.095671        ID: 0203    S Rx                DL:  8    b3 74 65 65 03 68 65 65     Channel: can0
+Timestamp: 1670400914.096124        ID: 0203    S Rx                DL:  8    65 65 65 65 53 c2 dd 59     Channel: can0
+Timestamp: 1670400914.096297        ID: 0203    S Rx                DL:  8    65 65 65 65 65 65 65 65     'eeeeeeee'    Channel: can0
+Timestamp: 1670400914.096599        ID: 0203    S Rx                DL:  8    65 65 65 65 4c 65 65 65     'eeeeLeee'    Channel: can0
+Timestamp: 1670400914.096772        ID: 0203    S Rx                DL:  1    39                          '9'    Channel: can0
+Timestamp: 1670400914.096902        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.097124        ID: 0203    S Rx                DL:  6    a0 48 08 01 d0 6c           Channel: can0
+Timestamp: 1670400914.097297        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 3c 30     Channel: can0
+Timestamp: 1670400914.097524        ID: 0202    S Rx                DL:  8    00 3f 42 a2 04 00 00 10     Channel: can0
+Timestamp: 1670400914.097660        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.097893        ID: 0202    S Rx                DL:  8    3e 12 3a bd 38 44 3a 00     Channel: can0
+Timestamp: 1670400914.098062        ID: 0202    S Rx                DL:  8    00 00 00 d8 d8 2f 3a e7     Channel: can0
+Timestamp: 1670400914.098288        ID: 0202    S Rx                DL:  8    ff 02 00 ff ff 46 34 07     Channel: can0
+Timestamp: 1670400914.098454        ID: 0202    S Rx                DL:  8    0d 28 7b d7 7f 32 b6 00     Channel: can0
+Timestamp: 1670400914.098807        ID: 0202    S Rx                DL:  8    00 31 b6 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.098977        ID: 0202    S Rx                DL:  8    00 51 ea 59 40 ca e2 93     Channel: can0
+Timestamp: 1670400914.099269        ID: 0202    S Rx                DL:  8    bc c2 1b 4f 3d 24 f9 80     Channel: can0
+Timestamp: 1670400914.099442        ID: 0202    S Rx                DL:  8    bf 29 a2 90 bb 0b 66 e3     Channel: can0
+Timestamp: 1670400914.099733        ID: 0202    S Rx                DL:  8    3b 0e f1 59 ba 01 00 00     Channel: can0
+Timestamp: 1670400914.099900        ID: 0202    S Rx                DL:  8    00 b4 cf 13 c1 f4 9c 8d     Channel: can0
+Timestamp: 1670400914.100192        ID: 0202    S Rx                DL:  8    bf 36 a1 59 c0 00 00 00     Channel: can0
+Timestamp: 1670400914.100359        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.100665        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 df 28     Channel: can0
+Timestamp: 1670400914.101203        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a 3d 30     Channel: can0
+Timestamp: 1670400914.101428        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 30     Channel: can0
+Timestamp: 1670400914.200728        ID: 0202    S Rx                DL:  8    c0 00 00 00 00 73 2f bd     Channel: can0
+Timestamp: 1670400914.201202        ID: 0202    S Rx                DL:  8    bf e9 23 95 ba ac b0 10     Channel: can0
+Timestamp: 1670400914.201499        ID: 0203    S Rx                DL:  8    12 0d 51 c0 0b 00 63 6a     Channel: can0
+Timestamp: 1670400914.201667        ID: 0202    S Rx                DL:  8    00 6f cf 13 c1 c1 b7 8d     Channel: can0
+Timestamp: 1670400914.201958        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.202130        ID: 0203    S Rx                DL:  6    a0 48 08 01 fa ad           Channel: can0
+Timestamp: 1670400914.202442        ID: 0203    S Rx                DL:  8    55 35 04 68 04 f1 a6 0e     Channel: can0
+Timestamp: 1670400914.202620        ID: 0203    S Rx                DL:  8    00 04 05 00 00 e0 ff a2     Channel: can0
+Timestamp: 1670400914.202907        ID: 0203    S Rx                DL:  8    ff 80 00 01 00 00 01 de     Channel: can0
+Timestamp: 1670400914.203079        ID: 0203    S Rx                DL:  8    2c 01 00 4b fc 00 00 00     Channel: can0
+Timestamp: 1670400914.203426        ID: 0203    S Rx                DL:  8    00 00 00 98 05 7f 3f 02     Channel: can0
+Timestamp: 1670400914.203596        ID: 0203    S Rx                DL:  8    e5 e4 bc b6 79 32 3b f2     Channel: can0
+Timestamp: 1670400914.203883        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 15 1e     Channel: can0
+Timestamp: 1670400914.204044        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 8f     Channel: can0
+Timestamp: 1670400914.204170        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.204392        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 3b 77        Channel: can0
+Timestamp: 1670400914.205739        ID: 0212    S Rx                DL:  8    55 10 04 56 58 28 01 00     Channel: can0
+Timestamp: 1670400914.206005        ID: 0212    S Rx                DL:  8    00 00 f1 01 38 63 c6 aa     Channel: can0
+Timestamp: 1670400914.207664        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 4b 30     Channel: can0
+Timestamp: 1670400914.207901        ID: 0201    S Rx                DL:  6    a0 48 08 01 0c 13           Channel: can0
+Timestamp: 1670400914.208855        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 ed 18     Channel: can0
+Timestamp: 1670400914.209084        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400914.209301        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.209428        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.209645        ID: 0201    S Rx                DL:  7    00 00 00 00 01 fe 46        Channel: can0
+Timestamp: 1670400914.252041        ID: 0004    S Rx E              DL:  8    00 11 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.252468        ID: 0202    S Rx                DL:  8    55 31 04 53 03 04 53 30     Channel: can0
+Timestamp: 1670400914.252768        ID: 0202    S Rx                DL:  8    00 f7 9f a4 04 a7 09 7f     Channel: can0
+Timestamp: 1670400914.252938        ID: 0202    S Rx                DL:  8    3f af b8 f8 bc 2a 81 ee     Channel: can0
+Timestamp: 1670400914.253226        ID: 0202    S Rx                DL:  8    bb 13 7c a5 bd 7b 28 2b     Channel: can0
+Timestamp: 1670400914.253398        ID: 0202    S Rx                DL:  1    aa                          Channel: can0
+Timestamp: 1670400914.254184        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 53 30     Channel: can0
+Timestamp: 1670400914.254463        ID: 0203    S Rx                DL:  6    a0 48 08 01 39 ca           Channel: can0
+Timestamp: 1670400914.257211        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 54 30     Channel: can0
+Timestamp: 1670400914.257453        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.257612        ID: 0202    S Rx                DL:  8    20 48 08 00 01 4e 30 01     Channel: can0
+Timestamp: 1670400914.257737        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.257953        ID: 0202    S Rx                DL:  8    26 5d 39 00 00 00 00 69     Channel: can0
+Timestamp: 1670400914.258112        ID: 0202    S Rx                DL:  8    22 32 3b 26 f0 2b 3a 00     Channel: can0
+Timestamp: 1670400914.258240        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.258460        ID: 0202    S Rx                DL:  8    00 fe ff 03 00 46 34 06     Channel: can0
+Timestamp: 1670400914.258619        ID: 0202    S Rx                DL:  8    00 94 b6 00 00 95 b6 00     Channel: can0
+Timestamp: 1670400914.258835        ID: 0202    S Rx                DL:  8    00 67 eb 59 40 c8 e2 93     Channel: can0
+Timestamp: 1670400914.258961        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.259176        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400914.259334        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 f2 18     Channel: can0
+Timestamp: 1670400914.259552        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.259682        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.259905        ID: 0201    S Rx                DL:  8    04 f1 18 00 04 69 08 05     Channel: can0
+Timestamp: 1670400914.260076        ID: 0201    S Rx                DL:  8    04 b0 ab 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400914.348863        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 fb 18     Channel: can0
+Timestamp: 1670400914.349111        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.349513        ID: 0201    S Rx                DL:  8    04 fa 18 00 04 69 08 05     Channel: can0
+Timestamp: 1670400914.349650        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.349875        ID: 0201    S Rx                DL:  7    00 00 00 00 01 eb 54        Channel: can0
+Timestamp: 1670400914.351683        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 ad 0e     Channel: can0
+Timestamp: 1670400914.351921        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400914.352057        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.352284        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 24 1e     Channel: can0
+Timestamp: 1670400914.352456        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc df     Channel: can0
+Timestamp: 1670400914.352683        ID: 0202    S Rx                DL:  8    00 74 26 a6 04 02 0a 7f     Channel: can0
+Timestamp: 1670400914.352817        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.353045        ID: 0202    S Rx                DL:  8    bb 4b 67 a5 bd 7c 28 2b     Channel: can0
+Timestamp: 1670400914.353226        ID: 0202    S Rx                DL:  8    3f ec 33 f8 bc 5a f5 ec     Channel: can0
+Timestamp: 1670400914.353460        ID: 0202    S Rx                DL:  1    d8                          Channel: can0
+Timestamp: 1670400914.353599        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.354061        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 62 30     Channel: can0
+Timestamp: 1670400914.354295        ID: 0203    S Rx                DL:  6    a0 48 08 01 c2 09           Channel: can0
+Timestamp: 1670400914.357166        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 63 30     Channel: can0
+Timestamp: 1670400914.357408        ID: 0202    S Rx                DL:  8    20 48 08 00 01 b2 30 01     Channel: can0
+Timestamp: 1670400914.357536        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.357753        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.357911        ID: 0202    S Rx                DL:  8    5e 8c 37 00 00 00 00 55     Channel: can0
+Timestamp: 1670400914.358138        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 00 00 04     Channel: can0
+Timestamp: 1670400914.358278        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.408952        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 01 19     Channel: can0
+Timestamp: 1670400914.409194        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.409363        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400914.409594        ID: 0201    S Rx                DL:  8    04 00 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400914.409739        ID: 0004    S Rx E              DL:  8    00 11 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.409969        ID: 0201    S Rx                DL:  8    0e 04 66 09 03 69 30 a0     Channel: can0
+Timestamp: 1670400914.410139        ID: 0201    S Rx                DL:  8    00 00 00 00 01 e5 ce 55     Channel: can0
+Timestamp: 1670400914.410293        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.410520        ID: 0201    S Rx                DL:  5    48 08 01 3a 9e              Channel: can0
+Timestamp: 1670400914.411691        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 b0 0e     Channel: can0
+Timestamp: 1670400914.411934        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400914.412070        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.412297        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 2a 1e     Channel: can0
+Timestamp: 1670400914.412467        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 0a     Channel: can0
+Timestamp: 1670400914.412694        ID: 0202    S Rx                DL:  8    00 fd 10 a7 04 1c 0a 7f     Channel: can0
+Timestamp: 1670400914.412822        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.413047        ID: 0202    S Rx                DL:  8    bb df 65 a5 bd 7c 28 2b     Channel: can0
+Timestamp: 1670400914.413212        ID: 0202    S Rx                DL:  8    3f 65 d9 f7 bc 58 be ec     Channel: can0
+Timestamp: 1670400914.413429        ID: 0202    S Rx                DL:  1    7a                          'z'    Channel: can0
+Timestamp: 1670400914.413555        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.414142        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 6b 30     Channel: can0
+Timestamp: 1670400914.414369        ID: 0203    S Rx                DL:  6    a0 48 08 01 b1 2c           Channel: can0
+Timestamp: 1670400914.417175        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 6c 30     Channel: can0
+Timestamp: 1670400914.417418        ID: 0202    S Rx                DL:  8    20 48 08 00 01 ee 30 01     Channel: can0
+Timestamp: 1670400914.417546        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.497093        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 78 30     Channel: can0
+Timestamp: 1670400914.497548        ID: 0202    S Rx                DL:  8    20 48 08 00 01 3e 31 01     Channel: can0
+Timestamp: 1670400914.497722        ID: 0203    S Rx                DL:  8    00 00 f0 04 05 05 04 06     Channel: can0
+Timestamp: 1670400914.498014        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.498217        ID: 0203    S Rx                DL:  8    3d 35 e0 b9 bd ff ca a1     Channel: can0
+Timestamp: 1670400914.498528        ID: 0203    S Rx                DL:  8    b2 4d d4 be bb 6d e0 77     Channel: can0
+Timestamp: 1670400914.498709        ID: 0203    S Rx                DL:  8    b8 70 77 9a b9 02 3e 23     Channel: can0
+Timestamp: 1670400914.499009        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 0a 19     Channel: can0
+Timestamp: 1670400914.499189        ID: 0203    S Rx                DL:  8    0d 09 cc 0b 00 3b 09 09     Channel: can0
+Timestamp: 1670400914.499491        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.499667        ID: 0203    S Rx                DL:  8    e9 f6 09 09 ab f6 f6 f6     Channel: can0
+Timestamp: 1670400914.499803        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.500033        ID: 0201    S Rx                DL:  8    04 09 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400914.500207        ID: 0201    S Rx                DL:  7    00 00 00 00 01 5c 41        Channel: can0
+Timestamp: 1670400914.500438        ID: 0203    S Rx                DL:  8    19 20 28 18 19 41 50 3a     Channel: can0
+Timestamp: 1670400914.500616        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 02 00 fe     Channel: can0
+Timestamp: 1670400914.500986        ID: 0202    S Rx                DL:  8    0d 28 7b e1 7f 22 b7 00     Channel: can0
+Timestamp: 1670400914.501152        ID: 0202    S Rx                DL:  8    00 24 b7 00 00 25 b7 00     Channel: can0
+Timestamp: 1670400914.501282        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.501508        ID: 0202    S Rx                DL:  8    c0 00 00 00 00 a2 c7 ea     Channel: can0
+Timestamp: 1670400914.501712        ID: 0202    S Rx                DL:  8    bf 06 b6 c5 b9 a0 d3 12     Channel: can0
+Timestamp: 1670400914.501940        ID: 0202    S Rx                DL:  8    00 39 bf 13 c1 5f 69 8e     Channel: can0
+Timestamp: 1670400914.502108        ID: 0203    S Rx                DL:  8    00 04 05 00 00 e0 ff a2     Channel: can0
+Timestamp: 1670400914.502244        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.502476        ID: 0203    S Rx                DL:  8    ff 80 00 01 00 00 01 0a     Channel: can0
+Timestamp: 1670400914.502645        ID: 0203    S Rx                DL:  8    2e 01 00 4b fc 00 00 00     Channel: can0
+Timestamp: 1670400914.502876        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a 7a 30     Channel: can0
+Timestamp: 1670400914.503244        ID: 0203    S Rx                DL:  5    64 a9 bd 88 31              Channel: can0
+Timestamp: 1670400914.503416        ID: 0203    S Rx                DL:  8    7a e5 bc 18 42 32 3b 32     Channel: can0
+Timestamp: 1670400914.503555        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.503779        ID: 0202    S Rx                DL:  8    41 5f 41 42 4e 5d 6c 6f     Channel: can0
+Timestamp: 1670400914.503947        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400914.504246        ID: 0202    S Rx                DL:  2    91 9c                       Channel: can0
+Timestamp: 1670400914.504421        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 03 23        Channel: can0
+Timestamp: 1670400914.506662        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 79 30     Channel: can0
+Timestamp: 1670400914.506902        ID: 0201    S Rx                DL:  6    a0 48 08 01 8a dc           Channel: can0
+Timestamp: 1670400914.508874        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 0b 19     Channel: can0
+Timestamp: 1670400914.509112        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.560697        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 ff 90     Channel: can0
+Timestamp: 1670400914.561092        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a 83 30     Channel: can0
+Timestamp: 1670400914.561492        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 30     Channel: can0
+Timestamp: 1670400914.561713        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400914.561849        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.562074        ID: 0203    S Rx                DL:  8    00 04 05 00 00 e0 ff a2     Channel: can0
+Timestamp: 1670400914.562255        ID: 0203    S Rx                DL:  8    55 35 04 68 04 f1 b8 0e     Channel: can0
+Timestamp: 1670400914.562616        ID: 0203    S Rx                DL:  8    00 00 00 81 05 7f 3f c1     Channel: can0
+Timestamp: 1670400914.562792        ID: 0203    S Rx                DL:  5    60 a9 bd 3b ac              Channel: can0
+Timestamp: 1670400914.563084        ID: 0203    S Rx                DL:  1    fb                          Channel: can0
+Timestamp: 1670400914.563257        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 22 a5        Channel: can0
+Timestamp: 1670400914.566311        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 82 30     Channel: can0
+Timestamp: 1670400914.566545        ID: 0201    S Rx                DL:  6    a0 48 08 01 0c 31           Channel: can0
+Timestamp: 1670400914.568786        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 11 19     Channel: can0
+Timestamp: 1670400914.569023        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400914.569241        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.569368        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.569585        ID: 0201    S Rx                DL:  7    00 00 00 00 01 3d db        Channel: can0
+Timestamp: 1670400914.569754        ID: 0201    S Rx                DL:  8    04 10 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400914.571681        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 b8 0e     Channel: can0
+Timestamp: 1670400914.571926        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400914.572057        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.572278        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 3a 1e     Channel: can0
+Timestamp: 1670400914.572438        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 9e     Channel: can0
+Timestamp: 1670400914.572654        ID: 0202    S Rx                DL:  8    00 c1 81 a9 04 15 0a 7f     Channel: can0
+Timestamp: 1670400914.666240        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 91 30     Channel: can0
+Timestamp: 1670400914.666485        ID: 0201    S Rx                DL:  6    a0 48 08 01 c1 7f           Channel: can0
+Timestamp: 1670400914.668802        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 1b 19     Channel: can0
+Timestamp: 1670400914.669058        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.669246        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400914.669477        ID: 0201    S Rx                DL:  8    04 1a 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400914.669645        ID: 0201    S Rx                DL:  7    00 00 00 00 01 6a d3        Channel: can0
+Timestamp: 1670400914.669773        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.671705        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 bd 0e     Channel: can0
+Timestamp: 1670400914.671945        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400914.672072        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.672290        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 44 1e     Channel: can0
+Timestamp: 1670400914.672450        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 85     Channel: can0
+Timestamp: 1670400914.672671        ID: 0202    S Rx                DL:  8    00 94 08 ab 04 f7 09 7f     Channel: can0
+Timestamp: 1670400914.672797        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.673014        ID: 0202    S Rx                DL:  8    bb 46 65 a5 bd 82 28 2b     Channel: can0
+Timestamp: 1670400914.673174        ID: 0202    S Rx                DL:  8    3f 37 66 f8 bc 21 14 ee     Channel: can0
+Timestamp: 1670400914.673390        ID: 0202    S Rx                DL:  1    bf                          Channel: can0
+Timestamp: 1670400914.673516        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.674069        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 93 30     Channel: can0
+Timestamp: 1670400914.674304        ID: 0203    S Rx                DL:  6    a0 48 08 01 4a cd           Channel: can0
+Timestamp: 1670400914.677169        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 94 30     Channel: can0
+Timestamp: 1670400914.677405        ID: 0202    S Rx                DL:  8    00 0c 1c ab 04 00 00 10     Channel: can0
+Timestamp: 1670400914.677564        ID: 0202    S Rx                DL:  8    20 48 08 00 01 f2 31 01     Channel: can0
+Timestamp: 1670400914.677784        ID: 0202    S Rx                DL:  8    00 00 00 e8 32 48 3b ae     Channel: can0
+Timestamp: 1670400914.717280        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 9b 30     Channel: can0
+Timestamp: 1670400914.717531        ID: 0202    S Rx                DL:  8    20 48 08 00 01 1a 32 01     Channel: can0
+Timestamp: 1670400914.717768        ID: 0202    S Rx                DL:  8    00 2a b8 ab 04 00 00 10     Channel: can0
+Timestamp: 1670400914.718003        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.718243        ID: 0202    S Rx                DL:  8    00 00 00 fe 36 5d 3b ff     Channel: can0
+Timestamp: 1670400914.718477        ID: 0202    S Rx                DL:  8    4c 5a ba 00 00 00 00 2d     Channel: can0
+Timestamp: 1670400914.718706        ID: 0202    S Rx                DL:  8    1b 63 3b 9e e9 92 b9 00     Channel: can0
+Timestamp: 1670400914.718925        ID: 0202    S Rx                DL:  8    00 00 00 82 28 2b 01 32     Channel: can0
+Timestamp: 1670400914.719052        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.719271        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 fc ff fc     Channel: can0
+Timestamp: 1670400914.719448        ID: 0202    S Rx                DL:  8    ff 16 00 01 00 4e 34 06     Channel: can0
+Timestamp: 1670400914.719693        ID: 0201    S Rx                DL:  8    04 93 01 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400914.719864        ID: 0202    S Rx                DL:  8    00 a8 b7 00 00 a9 b7 00     Channel: can0
+Timestamp: 1670400914.719995        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.720225        ID: 0202    S Rx                DL:  8    00 a5 b7 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.720395        ID: 0202    S Rx                DL:  8    00 f7 ea 59 40 22 e3 93     Channel: can0
+Timestamp: 1670400914.720615        ID: 0202    S Rx                DL:  8    bc 71 6a 48 3d e0 03 81     Channel: can0
+Timestamp: 1670400914.720745        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.720966        ID: 0202    S Rx                DL:  8    bf 97 3d c4 ba b0 20 26     Channel: can0
+Timestamp: 1670400914.721186        ID: 0202    S Rx                DL:  8    ba cf e5 22 3b 01 00 00     Channel: can0
+Timestamp: 1670400914.721411        ID: 0202    S Rx                DL:  8    00 e8 c4 13 c1 8f 48 8e     Channel: can0
+Timestamp: 1670400914.721630        ID: 0202    S Rx                DL:  8    bf 02 6d 59 c0 00 00 00     Channel: can0
+Timestamp: 1670400914.721698        ID: 0004    S Rx E              DL:  8    00 04 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.721914        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.722072        ID: 0203    S Rx                DL:  8    55 35 04 68 04 f1 c0 0e     Channel: can0
+Timestamp: 1670400914.817201        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 ab 30     Channel: can0
+Timestamp: 1670400914.817456        ID: 0202    S Rx                DL:  8    20 48 08 00 01 7e 32 01     Channel: can0
+Timestamp: 1670400914.817608        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.817837        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.818008        ID: 0202    S Rx                DL:  8    53 26 b8 00 00 00 00 0f     Channel: can0
+Timestamp: 1670400914.818139        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.818380        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 04 00 fe     Channel: can0
+Timestamp: 1670400914.818550        ID: 0202    S Rx                DL:  8    ff fe ff 01 00 47 34 07     Channel: can0
+Timestamp: 1670400914.818839        ID: 0202    S Rx                DL:  8    00 e1 b7 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.819003        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 2a 19     Channel: can0
+Timestamp: 1670400914.819282        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400914.819453        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.819745        ID: 0201    S Rx                DL:  8    04 1c 95 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400914.819916        ID: 0201    S Rx                DL:  8    04 29 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400914.820189        ID: 0201    S Rx                DL:  7    00 00 00 00 01 ec 6a        Channel: can0
+Timestamp: 1670400914.820477        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 21 8d     Channel: can0
+Timestamp: 1670400914.820640        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.821051        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a ac 30     Channel: can0
+Timestamp: 1670400914.821293        ID: 0202    S Rx                DL:  8    38 34 38 20 5b 4c 2d 53     Channel: can0
+Timestamp: 1670400914.821452        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 30     Channel: can0
+Timestamp: 1670400914.821667        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400914.821795        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.822011        ID: 0203    S Rx                DL:  8    00 04 05 00 00 e0 ff a2     Channel: can0
+Timestamp: 1670400914.822171        ID: 0203    S Rx                DL:  8    55 35 04 68 04 f1 c5 0e     Channel: can0
+Timestamp: 1670400914.822390        ID: 0203    S Rx                DL:  8    00 00 00 77 05 7f 3f 8a     Channel: can0
+Timestamp: 1670400914.877431        ID: 0202    S Rx                DL:  8    00 3a 29 ae 04 00 00 10     Channel: can0
+Timestamp: 1670400914.877823        ID: 0202    S Rx                DL:  8    00 00 00 68 4f 0c 3b 26     Channel: can0
+Timestamp: 1670400914.878175        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 00 00 02     Channel: can0
+Timestamp: 1670400914.878376        ID: 0202    S Rx                DL:  8    14 14 3b 55 c1 11 ba 00     Channel: can0
+Timestamp: 1670400914.878644        ID: 0202    S Rx                DL:  8    0d 27 7b d9 7f 06 b8 00     Channel: can0
+Timestamp: 1670400914.879001        ID: 0202    S Rx                DL:  8    00 cb e9 59 40 0f e3 93     Channel: can0
+Timestamp: 1670400914.879170        ID: 0202    S Rx                DL:  8    00 04 b8 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.879312        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.879547        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.879722        ID: 0201    S Rx                DL:  8    04 9a 7d 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400914.879965        ID: 0202    S Rx                DL:  8    3b 1a 7d 5b bb 01 00 00     Channel: can0
+Timestamp: 1670400914.880135        ID: 0201    S Rx                DL:  7    00 00 00 00 01 21 6d        Channel: can0
+Timestamp: 1670400914.880490        ID: 0202    S Rx                DL:  8    bf 2a 49 59 c0 00 00 00     Channel: can0
+Timestamp: 1670400914.880660        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 3b 35     Channel: can0
+Timestamp: 1670400914.881158        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a b5 30     Channel: can0
+Timestamp: 1670400914.881392        ID: 0202    S Rx                DL:  8    38 37 32 20 5b 4c 2d 53     Channel: can0
+Timestamp: 1670400914.881558        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 30     Channel: can0
+Timestamp: 1670400914.881793        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400914.881935        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.882159        ID: 0202    S Rx                DL:  2    24 99                       Channel: can0
+Timestamp: 1670400914.882324        ID: 0202    S Rx                DL:  8    77 61 72 6e 69 6e 67 00     Channel: can0
+Timestamp: 1670400914.882452        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.882668        ID: 0203    S Rx                DL:  8    00 00 00 87 05 7f 3f a1     Channel: can0
+Timestamp: 1670400914.882832        ID: 0203    S Rx                DL:  5    5d a9 bd f7 46              Channel: can0
+Timestamp: 1670400914.883059        ID: 0203    S Rx                DL:  1    ea                          Channel: can0
+Timestamp: 1670400914.978737        ID: 0202    S Rx                DL:  8    00 00 00 7e 28 2b 01 32     Channel: can0
+Timestamp: 1670400914.979182        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400914.979410        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400914.979645        ID: 0201    S Rx                DL:  8    04 15 e9 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400914.979881        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 01 00 fe     Channel: can0
+Timestamp: 1670400914.980023        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.980260        ID: 0202    S Rx                DL:  8    ff 01 00 09 00 4b 34 07     Channel: can0
+Timestamp: 1670400914.980428        ID: 0202    S Rx                DL:  8    0d 27 7b d2 7f 42 b8 00     Channel: can0
+Timestamp: 1670400914.980656        ID: 0202    S Rx                DL:  8    00 b0 ea 59 40 3f e3 93     Channel: can0
+Timestamp: 1670400914.980829        ID: 0202    S Rx                DL:  8    c0 00 00 00 00 1d e2 e0     Channel: can0
+Timestamp: 1670400914.980963        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.981186        ID: 0202    S Rx                DL:  8    bf 35 bb bb bb 6a 67 92     Channel: can0
+Timestamp: 1670400914.981629        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 59 95     Channel: can0
+Timestamp: 1670400914.981800        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a c4 30     Channel: can0
+Timestamp: 1670400914.981932        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.982165        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 30     Channel: can0
+Timestamp: 1670400914.982598        ID: 0203    S Rx                DL:  8    2f 01 00 4b fc 00 00 00     Channel: can0
+Timestamp: 1670400914.982735        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.982956        ID: 0203    S Rx                DL:  8    4b e5 bc 6c 02 32 3b 82     Channel: can0
+Timestamp: 1670400914.983116        ID: 0203    S Rx                DL:  8    00 00 00 81 05 7f 3f dc     Channel: can0
+Timestamp: 1670400914.983251        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.983469        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 63 1e     Channel: can0
+Timestamp: 1670400914.983644        ID: 0203    S Rx                DL:  1    06                          Channel: can0
+Timestamp: 1670400914.983779        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400914.984003        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 cc 51        Channel: can0
+Timestamp: 1670400915.031709        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 cf 0e     Channel: can0
+Timestamp: 1670400915.031957        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400915.032095        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.032319        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 68 1e     Channel: can0
+Timestamp: 1670400915.032483        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 93     Channel: can0
+Timestamp: 1670400915.032760        ID: 0202    S Rx                DL:  8    00 be 86 b0 04 e6 09 7f     Channel: can0
+Timestamp: 1670400915.032919        ID: 0202    S Rx                DL:  8    3f 6d a2 f8 bc aa f7 ed     Channel: can0
+Timestamp: 1670400915.033210        ID: 0202    S Rx                DL:  8    bb 5f 66 a5 bd 7f 28 2b     Channel: can0
+Timestamp: 1670400915.033382        ID: 0202    S Rx                DL:  1    c1                          Channel: can0
+Timestamp: 1670400915.034096        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 cb 30     Channel: can0
+Timestamp: 1670400915.034368        ID: 0203    S Rx                DL:  6    a0 48 08 01 73 ac           Channel: can0
+Timestamp: 1670400915.034509        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.034732        ID: 0203    S Rx                DL:  8    00 00 f0 04 91 cd 4a 55     Channel: can0
+Timestamp: 1670400915.034921        ID: 0203    S Rx                DL:  8    00 a3 91 91 90 91 4e 6e     Channel: can0
+Timestamp: 1670400915.035081        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.035307        ID: 0203    S Rx                DL:  8    f4 c9 55 1d 00 be 59 04     Channel: can0
+Timestamp: 1670400915.035477        ID: 0203    S Rx                DL:  8    a1 85 a1 a1 a1 8c 92 a0     Channel: can0
+Timestamp: 1670400915.035607        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.035823        ID: 0203    S Rx                DL:  8    00 6a 61 69 21 69 4d 69     Channel: can0
+Timestamp: 1670400915.035980        ID: 0203    S Rx                DL:  8    d9 6d 8e 3e 55 1d 00 9f     Channel: can0
+Timestamp: 1670400915.036105        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.036321        ID: 0203    S Rx                DL:  1    b2                          Channel: can0
+Timestamp: 1670400915.037185        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 cc 30     Channel: can0
+Timestamp: 1670400915.037419        ID: 0202    S Rx                DL:  8    20 48 08 00 01 5a 33 01     Channel: can0
+Timestamp: 1670400915.037642        ID: 0202    S Rx                DL:  8    00 44 9a b0 04 00 00 10     Channel: can0
+Timestamp: 1670400915.118961        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.119584        ID: 0202    S Rx                DL:  8    3b 7b c0 81 3a 01 00 00     Channel: can0
+Timestamp: 1670400915.119962        ID: 0201    S Rx                DL:  8    04 b8 bb 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400915.120275        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.120514        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.121106        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a db 30     Channel: can0
+Timestamp: 1670400915.121342        ID: 0202    S Rx                DL:  8    39 36 38 20 5b 4c 2d 53     Channel: can0
+Timestamp: 1670400915.121511        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 30     Channel: can0
+Timestamp: 1670400915.121731        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400915.121864        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.122083        ID: 0203    S Rx                DL:  8    00 04 05 00 00 e0 ff a2     Channel: can0
+Timestamp: 1670400915.122409        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.122812        ID: 0203    S Rx                DL:  5    5f a9 bd 2e d2              Channel: can0
+Timestamp: 1670400915.122955        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.123353        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 c8 bc        Channel: can0
+Timestamp: 1670400915.125052        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 da 30     Channel: can0
+Timestamp: 1670400915.125323        ID: 0201    S Rx                DL:  6    a0 48 08 01 35 50           Channel: can0
+Timestamp: 1670400915.128897        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 49 19     Channel: can0
+Timestamp: 1670400915.129139        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400915.129299        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.129523        ID: 0201    S Rx                DL:  8    04 48 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400915.129650        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.129867        ID: 0201    S Rx                DL:  7    00 00 00 00 01 69 93        Channel: can0
+Timestamp: 1670400915.131698        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 d4 0e     Channel: can0
+Timestamp: 1670400915.131933        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400915.192405        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.193014        ID: 0202    S Rx                DL:  8    3f 2a 8c f8 bc 1a 47 ee     Channel: can0
+Timestamp: 1670400915.193182        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 7a 1e     Channel: can0
+Timestamp: 1670400915.193313        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.193540        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 f1 fd        Channel: can0
+Timestamp: 1670400915.193720        ID: 0203    S Rx                DL:  8    55 71 04 c8 04 1d 4e 10     Channel: can0
+Timestamp: 1670400915.194013        ID: 0203    S Rx                DL:  8    2e 30 58 66 66 66 66 66     Channel: can0
+Timestamp: 1670400915.194185        ID: 0203    S Rx                DL:  8    be 59 04 e2 e5 0b 00 e1     Channel: can0
+Timestamp: 1670400915.194508        ID: 0203    S Rx                DL:  8    f7 e2 55 1d 00 be 59 04     Channel: can0
+Timestamp: 1670400915.194684        ID: 0203    S Rx                DL:  8    aa e6 0b 00 a9 a2 aa e2     Channel: can0
+Timestamp: 1670400915.194977        ID: 0203    S Rx                DL:  8    36 00 5c db 07 59 e7 0b     Channel: can0
+Timestamp: 1670400915.195145        ID: 0203    S Rx                DL:  8    00 e9 8d 80 4e 98 bd 96     Channel: can0
+Timestamp: 1670400915.195432        ID: 0203    S Rx                DL:  8    55 71 04 c8 04 1d 4f 10     Channel: can0
+Timestamp: 1670400915.195605        ID: 0203    S Rx                DL:  8    c0 6f 67 ed 8f c6 65 3c     Channel: can0
+Timestamp: 1670400915.195905        ID: 0203    S Rx                DL:  8    59 5b 58 58 5b 58 59 50     Channel: can0
+Timestamp: 1670400915.196079        ID: 0203    S Rx                DL:  8    5a e7 0b 00 af ba 6d e4     Channel: can0
+Timestamp: 1670400915.196377        ID: 0203    S Rx                DL:  8    9b 27 50 9e 97 12 0c 64     Channel: can0
+Timestamp: 1670400915.196570        ID: 0203    S Rx                DL:  8    b6 38 55 7b 00 4e ba 0b     Channel: can0
+Timestamp: 1670400915.196869        ID: 0203    S Rx                DL:  8    50 4f 5d 5d c0 50 5d 5d     Channel: can0
+Timestamp: 1670400915.197043        ID: 0203    S Rx                DL:  8    55 71 04 c8 04 1d 50 10     Channel: can0
+Timestamp: 1670400915.197349        ID: 0203    S Rx                DL:  8    e4 30 47 01 63 5d 5d 5d     Channel: can0
+Timestamp: 1670400915.197536        ID: 0203    S Rx                DL:  8    5d 5d 5d dd 62 5d 5d 5d     Channel: can0
+Timestamp: 1670400915.197836        ID: 0203    S Rx                DL:  8    5d a4 fc 43 e3 2e af a9     Channel: can0
+Timestamp: 1670400915.197998        ID: 0203    S Rx                DL:  8    e0 b0 5d eb e0 5d 5d 5d     Channel: can0
+Timestamp: 1670400915.198275        ID: 0203    S Rx                DL:  8    5d 5d 5d 5d 5d 5d 5d 5d     Channel: can0
+Timestamp: 1670400915.248850        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 55 19     Channel: can0
+Timestamp: 1670400915.249087        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400915.249254        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.249485        ID: 0201    S Rx                DL:  8    04 54 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400915.249624        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.249853        ID: 0201    S Rx                DL:  7    00 00 00 00 01 2b 89        Channel: can0
+Timestamp: 1670400915.251699        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 da 0e     Channel: can0
+Timestamp: 1670400915.251932        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400915.252061        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.252278        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 7e 1e     Channel: can0
+Timestamp: 1670400915.252438        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 18     Channel: can0
+Timestamp: 1670400915.252661        ID: 0202    S Rx                DL:  8    00 24 e2 b3 04 e4 09 7f     Channel: can0
+Timestamp: 1670400915.252829        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 80 1e     Channel: can0
+Timestamp: 1670400915.252954        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.253172        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 f7 83        Channel: can0
+Timestamp: 1670400915.253333        ID: 0202    S Rx                DL:  8    01 33 fb ff ff 0f 00 58     Channel: can0
+Timestamp: 1670400915.253461        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.253680        ID: 0202    S Rx                DL:  1    ae                          Channel: can0
+Timestamp: 1670400915.254121        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 ee 30     Channel: can0
+Timestamp: 1670400915.254370        ID: 0203    S Rx                DL:  6    a0 48 08 01 94 3d           Channel: can0
+Timestamp: 1670400915.254500        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.254718        ID: 0203    S Rx                DL:  8    00 00 f0 04 8c e2 54 8f     Channel: can0
+Timestamp: 1670400915.254887        ID: 0203    S Rx                DL:  8    4d da 41 73 2a 99 59 8f     Channel: can0
+Timestamp: 1670400915.255108        ID: 0203    S Rx                DL:  8    28 00 6c d4 07 4e e9 0b     Channel: can0
+Timestamp: 1670400915.255297        ID: 0203    S Rx                DL:  8    00 81 06 7b f0 4e 4e 4e     Channel: can0
+Timestamp: 1670400915.343096        ID: 0203    S Rx                DL:  1    ec                          Channel: can0
+Timestamp: 1670400915.343559        ID: 0203    S Rx                DL:  8    00 00 f0 04 52 5a 12 5a     Channel: can0
+Timestamp: 1670400915.343850        ID: 0203    S Rx                DL:  8    00 be 59 04 22 ec 0b 00     Channel: can0
+Timestamp: 1670400915.344033        ID: 0203    S Rx                DL:  8    21 2a 22 6a 22 06 22 22     Channel: can0
+Timestamp: 1670400915.344331        ID: 0203    S Rx                DL:  8    04 e9 ec 0b 00 ea e1 e9     Channel: can0
+Timestamp: 1670400915.344502        ID: 0203    S Rx                DL:  8    a1 e9 cd e9 e9 e9 68 dd     Channel: can0
+Timestamp: 1670400915.344789        ID: 0203    S Rx                DL:  8    0b 00 70 f7 e2 21 f7 a9     Channel: can0
+Timestamp: 1670400915.344960        ID: 0203    S Rx                DL:  8    70 08 0b eb 99 2c f7 69     Channel: can0
+Timestamp: 1670400915.345257        ID: 0203    S Rx                DL:  1    c9                          Channel: can0
+Timestamp: 1670400915.346463        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 fb 30     Channel: can0
+Timestamp: 1670400915.346695        ID: 0201    S Rx                DL:  6    a0 48 08 01 7e d1           Channel: can0
+Timestamp: 1670400915.348825        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 5f 19     Channel: can0
+Timestamp: 1670400915.349055        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400915.349226        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.349446        ID: 0201    S Rx                DL:  8    04 5e 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400915.349607        ID: 0201    S Rx                DL:  7    00 00 00 00 01 7c 81        Channel: can0
+Timestamp: 1670400915.349734        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.351706        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 df 0e     Channel: can0
+Timestamp: 1670400915.351954        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400915.352094        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.352316        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 88 1e     Channel: can0
+Timestamp: 1670400915.352474        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 1e     Channel: can0
+Timestamp: 1670400915.352692        ID: 0202    S Rx                DL:  8    00 bf 68 b5 04 17 0a 7f     Channel: can0
+Timestamp: 1670400915.352817        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.353034        ID: 0202    S Rx                DL:  8    bb 37 62 a5 bd 81 28 2b     Channel: can0
+Timestamp: 1670400915.408857        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 65 19     Channel: can0
+Timestamp: 1670400915.409101        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400915.409274        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.409502        ID: 0201    S Rx                DL:  8    04 64 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400915.409688        ID: 0201    S Rx                DL:  7    00 00 00 00 01 43 b7        Channel: can0
+Timestamp: 1670400915.409824        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.411708        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 e2 0e     Channel: can0
+Timestamp: 1670400915.411945        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400915.412077        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.412309        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 8e 1e     Channel: can0
+Timestamp: 1670400915.412485        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 01     Channel: can0
+Timestamp: 1670400915.412708        ID: 0202    S Rx                DL:  8    00 4c 53 b6 04 f2 09 7f     Channel: can0
+Timestamp: 1670400915.412838        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.413056        ID: 0202    S Rx                DL:  8    bb ce 66 a5 bd 80 28 2b     Channel: can0
+Timestamp: 1670400915.413218        ID: 0202    S Rx                DL:  8    3f 84 6a f8 bc 2a ee ed     Channel: can0
+Timestamp: 1670400915.413440        ID: 0202    S Rx                DL:  1    96                          Channel: can0
+Timestamp: 1670400915.413567        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.414132        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 06 31     Channel: can0
+Timestamp: 1670400915.414357        ID: 0203    S Rx                DL:  8    55 71 04 c8 04 1d 5c 10     Channel: can0
+Timestamp: 1670400915.414516        ID: 0203    S Rx                DL:  6    a0 48 08 01 9b 95           Channel: can0
+Timestamp: 1670400915.414650        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.414865        ID: 0203    S Rx                DL:  8    31 e1 31 31 31 31 54 cb     Channel: can0
+Timestamp: 1670400915.415023        ID: 0203    S Rx                DL:  8    0b 00 03 31 31 30 31 ee     Channel: can0
+Timestamp: 1670400915.415245        ID: 0203    S Rx                DL:  8    31 4c 3a 55 1d 00 be 59     Channel: can0
+Timestamp: 1670400915.415408        ID: 0203    S Rx                DL:  8    04 41 ef 0b 00 42 49 41     Channel: can0
+Timestamp: 1670400915.494843        ID: 0203    S Rx                DL:  8    1d 00 be 59 04 62 f2 0b     Channel: can0
+Timestamp: 1670400915.495362        ID: 0203    S Rx                DL:  8    db 07 11 f3 0b 00 cd 4e     Channel: can0
+Timestamp: 1670400915.495534        ID: 0203    S Rx                DL:  8    55 71 04 c8 04 1d 5f 10     Channel: can0
+Timestamp: 1670400915.495826        ID: 0203    S Rx                DL:  8    7b 1d b0 2d 44 90 2a 2f     Channel: can0
+Timestamp: 1670400915.496002        ID: 0203    S Rx                DL:  8    1f 4c 6c 2d 77 c6 06 d0     Channel: can0
+Timestamp: 1670400915.496307        ID: 0203    S Rx                DL:  8    28 00 6c d4 07 12 f3 0b     Channel: can0
+Timestamp: 1670400915.496478        ID: 0203    S Rx                DL:  8    00 0f 0d 2f ac 12 12 12     Channel: can0
+Timestamp: 1670400915.496768        ID: 0203    S Rx                DL:  8    12 12 92 29 56 e4 e1 55     Channel: can0
+Timestamp: 1670400915.496943        ID: 0203    S Rx                DL:  8    7b 00 4e ba 0b 15 f3 0b     Channel: can0
+Timestamp: 1670400915.497236        ID: 0203    S Rx                DL:  8    55 71 04 c8 04 1d 60 10     Channel: can0
+Timestamp: 1670400915.497396        ID: 0203    S Rx                DL:  8    00 00 f0 04 15 15 b9 18     Channel: can0
+Timestamp: 1670400915.497684        ID: 0203    S Rx                DL:  8    15 15 f3 13 39 29 85 11     Channel: can0
+Timestamp: 1670400915.497851        ID: 0202    S Rx                DL:  8    00 ec 9e b7 04 00 00 10     Channel: can0
+Timestamp: 1670400915.498155        ID: 0203    S Rx                DL:  8    94 28 15 15 15 15 15 15     Channel: can0
+Timestamp: 1670400915.498331        ID: 0202    S Rx                DL:  8    00 00 00 8a 41 2a 3a fe     Channel: can0
+Timestamp: 1670400915.498626        ID: 0203    S Rx                DL:  8    14 28 37 71 4a 28 b3 c7     Channel: can0
+Timestamp: 1670400915.498794        ID: 0202    S Rx                DL:  8    66 32 3a 90 3e 11 b9 00     Channel: can0
+Timestamp: 1670400915.498930        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.499158        ID: 0203    S Rx                DL:  8    15 15 15 15 15 95 b3 c7     Channel: can0
+Timestamp: 1670400915.499330        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 6e 19     Channel: can0
+Timestamp: 1670400915.499627        ID: 0202    S Rx                DL:  8    ff 00 00 02 00 45 34 07     Channel: can0
+Timestamp: 1670400915.499808        ID: 0202    S Rx                DL:  8    0d 27 7b dc 7f 7a b9 00     Channel: can0
+Timestamp: 1670400915.500104        ID: 0202    S Rx                DL:  8    00 7b b9 00 00 7d b9 00     Channel: can0
+Timestamp: 1670400915.500273        ID: 0202    S Rx                DL:  8    00 78 b9 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.500559        ID: 0203    S Rx                DL:  8    4a 2c 15 15 15 15 0b 15     Channel: can0
+Timestamp: 1670400915.551718        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 e9 0e     Channel: can0
+Timestamp: 1670400915.551960        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400915.552101        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.552324        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 9c 1e     Channel: can0
+Timestamp: 1670400915.552492        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 6f     Channel: can0
+Timestamp: 1670400915.552718        ID: 0202    S Rx                DL:  8    00 f2 75 b8 04 e7 09 7f     Channel: can0
+Timestamp: 1670400915.552852        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.553075        ID: 0202    S Rx                DL:  8    bb e7 6f a5 bd 7d 28 2b     Channel: can0
+Timestamp: 1670400915.553240        ID: 0202    S Rx                DL:  8    3f e9 44 f8 bc 6e f2 ec     Channel: can0
+Timestamp: 1670400915.553462        ID: 0202    S Rx                DL:  1    be                          Channel: can0
+Timestamp: 1670400915.553595        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.554108        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 1c 31     Channel: can0
+Timestamp: 1670400915.554368        ID: 0203    S Rx                DL:  6    a0 48 08 01 25 fe           Channel: can0
+Timestamp: 1670400915.557194        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 1d 31     Channel: can0
+Timestamp: 1670400915.557439        ID: 0202    S Rx                DL:  8    20 48 08 00 01 62 35 01     Channel: can0
+Timestamp: 1670400915.557571        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.557787        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.557945        ID: 0202    S Rx                DL:  8    5c 4f b9 00 00 00 00 53     Channel: can0
+Timestamp: 1670400915.558166        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 02 00 fe     Channel: can0
+Timestamp: 1670400915.558293        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.558508        ID: 0202    S Rx                DL:  8    00 a0 b9 00 00 a1 b9 00     Channel: can0
+Timestamp: 1670400915.558672        ID: 0202    S Rx                DL:  8    ff fe ff fe ff 4b 34 07     Channel: can0
+Timestamp: 1670400915.558892        ID: 0202    S Rx                DL:  8    c0 00 00 00 00 1b 8d c9     Channel: can0
+Timestamp: 1670400915.559022        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.559242        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.668834        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 7f 19     Channel: can0
+Timestamp: 1670400915.669077        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400915.669250        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.669476        ID: 0201    S Rx                DL:  8    04 7e 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400915.669647        ID: 0201    S Rx                DL:  7    00 00 00 00 01 cc aa        Channel: can0
+Timestamp: 1670400915.669784        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.671725        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 ef 0e     Channel: can0
+Timestamp: 1670400915.671970        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400915.672109        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.672336        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 a8 1e     Channel: can0
+Timestamp: 1670400915.672504        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 27     Channel: can0
+Timestamp: 1670400915.672788        ID: 0202    S Rx                DL:  8    00 a7 4a ba 04 d7 09 7f     Channel: can0
+Timestamp: 1670400915.672958        ID: 0202    S Rx                DL:  8    3f 3d 52 f8 bc 74 78 ee     Channel: can0
+Timestamp: 1670400915.673252        ID: 0202    S Rx                DL:  8    bb a5 72 a5 bd 7d 28 2b     Channel: can0
+Timestamp: 1670400915.673420        ID: 0202    S Rx                DL:  1    8d                          Channel: can0
+Timestamp: 1670400915.674120        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 2e 31     Channel: can0
+Timestamp: 1670400915.674388        ID: 0203    S Rx                DL:  6    a0 48 08 01 a3 31           Channel: can0
+Timestamp: 1670400915.674530        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.674753        ID: 0203    S Rx                DL:  8    00 00 f0 04 16 bb d5 d0     Channel: can0
+Timestamp: 1670400915.674920        ID: 0203    S Rx                DL:  8    ba 8d d4 d3 ee ee ec ef     Channel: can0
+Timestamp: 1670400915.675204        ID: 0203    S Rx                DL:  8    00 ba 9c d5 50 ee ee ee     Channel: can0
+Timestamp: 1670400915.675363        ID: 0203    S Rx                DL:  8    ee 17 de dc 57 8c 87 e3     Channel: can0
+Timestamp: 1670400915.675641        ID: 0203    S Rx                DL:  8    1d 00 be 59 04 6a f9 0b     Channel: can0
+Timestamp: 1670400915.675797        ID: 0203    S Rx                DL:  8    00 69 62 6a 22 6a 4e 6a     Channel: can0
+Timestamp: 1670400915.676106        ID: 0203    S Rx                DL:  1    bd                          Channel: can0
+Timestamp: 1670400915.677172        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 2f 31     Channel: can0
+Timestamp: 1670400915.677401        ID: 0202    S Rx                DL:  8    20 48 08 00 01 da 35 01     Channel: can0
+Timestamp: 1670400915.677621        ID: 0202    S Rx                DL:  8    00 4b 5e ba 04 00 00 10     Channel: can0
+Timestamp: 1670400915.677836        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.678051        ID: 0202    S Rx                DL:  8    00 00 00 e2 c6 f2 3a ef     Channel: can0
+Timestamp: 1670400915.678269        ID: 0202    S Rx                DL:  8    ce f8 39 00 00 00 00 bc     Channel: can0
+Timestamp: 1670400915.678490        ID: 0202    S Rx                DL:  8    a4 e5 3a 05 bc 48 3a 00     Channel: can0
+Timestamp: 1670400915.678706        ID: 0202    S Rx                DL:  8    00 00 00 7d 28 2b 01 33     Channel: can0
+Timestamp: 1670400915.678921        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 80 19     Channel: can0
+Timestamp: 1670400915.679137        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.679352        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400915.679566        ID: 0201    S Rx                DL:  8    04 fa 01 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400915.748902        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 87 19     Channel: can0
+Timestamp: 1670400915.749146        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400915.749317        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.749554        ID: 0201    S Rx                DL:  8    04 86 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400915.749728        ID: 0201    S Rx                DL:  7    00 00 00 00 01 e8 67        Channel: can0
+Timestamp: 1670400915.749861        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.751781        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 f3 0e     Channel: can0
+Timestamp: 1670400915.752012        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400915.752238        ID: 0202    S Rx                DL:  8    55 31 04 53 03 04 3c 31     Channel: can0
+Timestamp: 1670400915.752375        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.752601        ID: 0202    S Rx                DL:  8    20 48 08 00 00 25 36 01     Channel: can0
+Timestamp: 1670400915.752771        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 b0 1e     Channel: can0
+Timestamp: 1670400915.752996        ID: 0202    S Rx                DL:  8    00 1e 83 bb 04 fd 09 7f     Channel: can0
+Timestamp: 1670400915.753128        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.753350        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 06 62        Channel: can0
+Timestamp: 1670400915.753517        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 b2 1e     Channel: can0
+Timestamp: 1670400915.753645        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.753873        ID: 0202    S Rx                DL:  8    bb 72 63 a5 bd 7d 28 2b     Channel: can0
+Timestamp: 1670400915.754035        ID: 0202    S Rx                DL:  8    01 33 fb ff ff 0f 00 ff     Channel: can0
+Timestamp: 1670400915.754257        ID: 0202    S Rx                DL:  1    8a                          Channel: can0
+Timestamp: 1670400915.754392        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.755108        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 3c 31     Channel: can0
+Timestamp: 1670400915.755339        ID: 0203    S Rx                DL:  6    a0 48 08 01 45 7b           Channel: can0
+Timestamp: 1670400915.757155        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 3d 31     Channel: can0
+Timestamp: 1670400915.757393        ID: 0202    S Rx                DL:  8    20 48 08 00 01 2a 36 01     Channel: can0
+Timestamp: 1670400915.844936        ID: 0203    S Rx                DL:  8    6c d4 07 be 00 0c 00 17     Channel: can0
+Timestamp: 1670400915.845235        ID: 0203    S Rx                DL:  1    a8                          Channel: can0
+Timestamp: 1670400915.846236        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 49 31     Channel: can0
+Timestamp: 1670400915.846485        ID: 0201    S Rx                DL:  6    a0 48 08 01 1e 10           Channel: can0
+Timestamp: 1670400915.848794        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 91 19     Channel: can0
+Timestamp: 1670400915.849038        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.849178        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.849416        ID: 0201    S Rx                DL:  8    04 ba ee 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400915.849603        ID: 0201    S Rx                DL:  8    04 90 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400915.849738        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.849965        ID: 0201    S Rx                DL:  7    00 00 00 00 01 fd 75        Channel: can0
+Timestamp: 1670400915.851743        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 f8 0e     Channel: can0
+Timestamp: 1670400915.851975        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400915.852193        ID: 0203    S Rx                DL:  6    00 00 00 02 0c 7b           Channel: can0
+Timestamp: 1670400915.852325        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.852537        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 49     Channel: can0
+Timestamp: 1670400915.852693        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 ba 1e     Channel: can0
+Timestamp: 1670400915.852906        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 bc 1e     Channel: can0
+Timestamp: 1670400915.853025        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.853242        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 27 e4        Channel: can0
+Timestamp: 1670400915.853400        ID: 0202    S Rx                DL:  8    00 e6 09 bd 04 f6 09 7f     Channel: can0
+Timestamp: 1670400915.853618        ID: 0202    S Rx                DL:  8    bb 3d 6c a5 bd 7d 28 2b     Channel: can0
+Timestamp: 1670400915.853740        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.853963        ID: 0202    S Rx                DL:  8    01 33 fb ff ff 0f 00 85     Channel: can0
+Timestamp: 1670400915.854214        ID: 0202    S Rx                DL:  1    57                          'W'    Channel: can0
+Timestamp: 1670400915.919615        ID: 0201    S Rx                DL:  8    04 ff c7 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400915.920069        ID: 0201    S Rx                DL:  8    04 97 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400915.920239        ID: 0201    S Rx                DL:  7    00 00 00 00 01 65 f7        Channel: can0
+Timestamp: 1670400915.920530        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 ef 0a     Channel: can0
+Timestamp: 1670400915.921157        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a 56 31     Channel: can0
+Timestamp: 1670400915.921391        ID: 0202    S Rx                DL:  8    32 38 38 20 5b 4c 2d 53     Channel: can0
+Timestamp: 1670400915.921559        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 31     Channel: can0
+Timestamp: 1670400915.921794        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400915.921929        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.922159        ID: 0202    S Rx                DL:  2    9b 27                       Channel: can0
+Timestamp: 1670400915.922333        ID: 0202    S Rx                DL:  8    77 61 72 6e 69 6e 67 00     Channel: can0
+Timestamp: 1670400915.922466        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.922692        ID: 0203    S Rx                DL:  8    00 00 00 6f 05 7f 3f 5e     Channel: can0
+Timestamp: 1670400915.922859        ID: 0203    S Rx                DL:  5    5c a9 bd 5d a5              Channel: can0
+Timestamp: 1670400915.923007        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.923243        ID: 0203    S Rx                DL:  1    ae                          Channel: can0
+Timestamp: 1670400915.923418        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 9f ec        Channel: can0
+Timestamp: 1670400915.926479        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 55 31     Channel: can0
+Timestamp: 1670400915.926719        ID: 0201    S Rx                DL:  6    a0 48 08 01 5a 63           Channel: can0
+Timestamp: 1670400915.928784        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 99 19     Channel: can0
+Timestamp: 1670400915.929019        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400915.929177        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400915.929396        ID: 0201    S Rx                DL:  8    04 98 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400915.929526        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400915.929742        ID: 0201    S Rx                DL:  7    00 00 00 00 01 11 7f        Channel: can0
+Timestamp: 1670400916.031722        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 01 0f     Channel: can0
+Timestamp: 1670400916.032094        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.032314        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 cc 1e     Channel: can0
+Timestamp: 1670400916.032706        ID: 0202    S Rx                DL:  8    00 e3 c8 bf 04 0c 0a 7f     Channel: can0
+Timestamp: 1670400916.032840        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.033064        ID: 0202    S Rx                DL:  8    bb a5 64 a5 bd 7e 28 2b     Channel: can0
+Timestamp: 1670400916.033228        ID: 0202    S Rx                DL:  8    3f 94 22 f8 bc 5d 39 ed     Channel: can0
+Timestamp: 1670400916.033476        ID: 0202    S Rx                DL:  1    80                          Channel: can0
+Timestamp: 1670400916.033607        ID: 0004    S Rx E              DL:  8    00 05 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.034078        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 66 31     Channel: can0
+Timestamp: 1670400916.034312        ID: 0203    S Rx                DL:  6    a0 48 08 01 2a 12           Channel: can0
+Timestamp: 1670400916.037225        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 67 31     Channel: can0
+Timestamp: 1670400916.037471        ID: 0202    S Rx                DL:  8    20 48 08 00 01 42 37 01     Channel: can0
+Timestamp: 1670400916.037603        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.037824        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.037987        ID: 0202    S Rx                DL:  8    63 54 ba 00 00 00 00 85     Channel: can0
+Timestamp: 1670400916.038229        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 00 00 02     Channel: can0
+Timestamp: 1670400916.038357        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.038580        ID: 0202    S Rx                DL:  8    00 c0 ba 00 00 c1 ba 00     Channel: can0
+Timestamp: 1670400916.038748        ID: 0202    S Rx                DL:  8    00 01 00 02 00 45 34 07     Channel: can0
+Timestamp: 1670400916.038970        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 a4 19     Channel: can0
+Timestamp: 1670400916.039131        ID: 0202    S Rx                DL:  8    c0 00 00 00 00 66 aa ca     Channel: can0
+Timestamp: 1670400916.039260        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.039479        ID: 0202    S Rx                DL:  8    bc 4c cf 4a 3d c9 06 81     Channel: can0
+Timestamp: 1670400916.039636        ID: 0202    S Rx                DL:  8    bf 36 ff 60 bb fe 9a b8     Channel: can0
+Timestamp: 1670400916.100169        ID: 0203    S Rx                DL:  8    be 59 04 9a 0a 0c 00 32     Channel: can0
+Timestamp: 1670400916.100343        ID: 0203    S Rx                DL:  1    8c                          Channel: can0
+Timestamp: 1670400916.100644        ID: 0202    S Rx                DL:  8    0d 28 7b e0 7f e2 ba 00     Channel: can0
+Timestamp: 1670400916.100817        ID: 0202    S Rx                DL:  8    00 e4 ba 00 00 e5 ba 00     Channel: can0
+Timestamp: 1670400916.101111        ID: 0202    S Rx                DL:  8    00 e0 e8 59 40 f9 e2 93     Channel: can0
+Timestamp: 1670400916.101288        ID: 0202    S Rx                DL:  8    bc bf d0 4a 3d b8 f8 80     Channel: can0
+Timestamp: 1670400916.101590        ID: 0202    S Rx                DL:  8    3b 42 d1 84 ba 01 00 00     Channel: can0
+Timestamp: 1670400916.101764        ID: 0202    S Rx                DL:  8    bf 8e a8 59 c0 00 00 00     Channel: can0
+Timestamp: 1670400916.102103        ID: 0203    S Rx                DL:  8    55 35 04 68 04 f1 05 0f     Channel: can0
+Timestamp: 1670400916.102273        ID: 0203    S Rx                DL:  8    00 04 05 00 00 e0 ff a2     Channel: can0
+Timestamp: 1670400916.102582        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 31     Channel: can0
+Timestamp: 1670400916.102757        ID: 0203    S Rx                DL:  8    34 01 00 4b fc 00 00 00     Channel: can0
+Timestamp: 1670400916.103062        ID: 0202    S Rx                DL:  8    41 5f 41 42 4e 5d 6c 6f     Channel: can0
+Timestamp: 1670400916.103245        ID: 0203    S Rx                DL:  8    a2 e5 bc 66 93 32 3b 0d     Channel: can0
+Timestamp: 1670400916.103551        ID: 0202    S Rx                DL:  8    77 61 72 6e 69 6e 67 00     Channel: can0
+Timestamp: 1670400916.103714        ID: 0202    S Rx                DL:  2    8f 49                       Channel: can0
+Timestamp: 1670400916.103992        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 d5 1e     Channel: can0
+Timestamp: 1670400916.104150        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 9b 01        Channel: can0
+Timestamp: 1670400916.106276        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 70 31     Channel: can0
+Timestamp: 1670400916.106518        ID: 0201    S Rx                DL:  6    a0 48 08 01 bd f2           Channel: can0
+Timestamp: 1670400916.108934        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 ab 19     Channel: can0
+Timestamp: 1670400916.109179        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400916.109340        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.109558        ID: 0201    S Rx                DL:  8    04 aa 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400916.109719        ID: 0201    S Rx                DL:  7    00 00 00 00 01 c2 43        Channel: can0
+Timestamp: 1670400916.208838        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 b5 19     Channel: can0
+Timestamp: 1670400916.209242        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.209490        ID: 0201    S Rx                DL:  8    04 b4 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400916.209793        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.211783        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 0a 0f     Channel: can0
+Timestamp: 1670400916.212028        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400916.212267        ID: 0203    S Rx                DL:  6    00 00 00 02 ac 35           Channel: can0
+Timestamp: 1670400916.212404        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.212631        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc f6     Channel: can0
+Timestamp: 1670400916.212807        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 de 1e     Channel: can0
+Timestamp: 1670400916.212932        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.213182        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 e0 1e     Channel: can0
+Timestamp: 1670400916.213362        ID: 0202    S Rx                DL:  8    bb c8 6c a5 bd 7e 28 2b     Channel: can0
+Timestamp: 1670400916.213499        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.213722        ID: 0202    S Rx                DL:  1    7f                          Channel: can0
+Timestamp: 1670400916.214229        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 83 31     Channel: can0
+Timestamp: 1670400916.214470        ID: 0203    S Rx                DL:  6    a0 48 08 01 be 84           Channel: can0
+Timestamp: 1670400916.214695        ID: 0203    S Rx                DL:  8    55 58 04 bb 04 1d 88 10     Channel: can0
+Timestamp: 1670400916.214858        ID: 0203    S Rx                DL:  8    00 00 f0 04 71 99 71 71     Channel: can0
+Timestamp: 1670400916.215091        ID: 0203    S Rx                DL:  8    d2 55 23 00 4f 12 0d 71     Channel: can0
+Timestamp: 1670400916.215219        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.215444        ID: 0203    S Rx                DL:  8    ae 8e 84 8e d2 8e 91 8e     Channel: can0
+Timestamp: 1670400916.215609        ID: 0203    S Rx                DL:  8    0e 0c 00 43 71 71 70 71     Channel: can0
+Timestamp: 1670400916.215677        ID: 0004    S Rx E              DL:  8    00 04 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.215904        ID: 0203    S Rx                DL:  8    70 8e fe 02 55 1d 00 be     Channel: can0
+Timestamp: 1670400916.305119        ID: 0201    S Rx                DL:  6    a0 48 08 01 ae 70           Channel: can0
+Timestamp: 1670400916.308853        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 bf 19     Channel: can0
+Timestamp: 1670400916.309100        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400916.309277        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.309509        ID: 0201    S Rx                DL:  8    04 be 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400916.309683        ID: 0201    S Rx                DL:  7    00 00 00 00 01 6c 53        Channel: can0
+Timestamp: 1670400916.309816        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.311733        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 0f 0f     Channel: can0
+Timestamp: 1670400916.311969        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400916.312096        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.312325        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 e8 1e     Channel: can0
+Timestamp: 1670400916.312485        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc 44     Channel: can0
+Timestamp: 1670400916.312705        ID: 0202    S Rx                DL:  8    00 d3 0e c4 04 f0 09 7f     Channel: can0
+Timestamp: 1670400916.312832        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.313052        ID: 0202    S Rx                DL:  8    bb 1e 67 a5 bd 7f 28 2b     Channel: can0
+Timestamp: 1670400916.313220        ID: 0202    S Rx                DL:  8    3f fc 79 f8 bc 2d 84 ed     Channel: can0
+Timestamp: 1670400916.313441        ID: 0202    S Rx                DL:  1    a3                          Channel: can0
+Timestamp: 1670400916.313562        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.314140        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 92 31     Channel: can0
+Timestamp: 1670400916.314366        ID: 0203    S Rx                DL:  8    55 71 04 c8 04 1d 8d 10     Channel: can0
+Timestamp: 1670400916.314522        ID: 0203    S Rx                DL:  6    a0 48 08 01 25 c2           Channel: can0
+Timestamp: 1670400916.314734        ID: 0203    S Rx                DL:  8    77 4c 13 6e c4 c0 0f 6e     Channel: can0
+Timestamp: 1670400916.314890        ID: 0203    S Rx                DL:  8    7f 2d 61 e1 1e 87 ed e8     Channel: can0
+Timestamp: 1670400916.315023        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.315243        ID: 0203    S Rx                DL:  8    db 68 70 e8 90 7d 55 23     Channel: can0
+Timestamp: 1670400916.384073        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.386blaster970        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 9c 31     Channel: can0
+Timestamp: 1670400916.387234        ID: 0201    S Rx                DL:  6    a0 48 08 01 5a 41           Channel: can0
+Timestamp: 1670400916.388903        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 c7 19     Channel: can0
+Timestamp: 1670400916.389190        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400916.389368        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.389616        ID: 0201    S Rx                DL:  8    04 c6 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400916.389815        ID: 0201    S Rx                DL:  7    00 00 00 00 01 88 30        Channel: can0
+Timestamp: 1670400916.389953        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.390865        ID: 0201    S Rx                DL:  8    55 0f 04 a2 f1 c3 d9 02     Channel: can0
+Timestamp: 1670400916.391099        ID: 0201    S Rx                DL:  7    00 0a 53 32 00 98 cf        Channel: can0
+Timestamp: 1670400916.391695        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 13 0f     Channel: can0
+Timestamp: 1670400916.391917        ID: 0203    S Rx                DL:  6    00 00 00 02 f2 72           Channel: can0
+Timestamp: 1670400916.392078        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400916.392295        ID: 0202    S Rx                DL:  8    55 31 04 53 03 04 9e 31     Channel: can0
+Timestamp: 1670400916.392422        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.392638        ID: 0202    S Rx                DL:  8    00 7f 47 c5 04 03 0a 7f     Channel: can0
+Timestamp: 1670400916.392811        ID: 0202    S Rx                DL:  8    20 48 08 00 00 a5 38 01     Channel: can0
+Timestamp: 1670400916.393029        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 00 a5        Channel: can0
+Timestamp: 1670400916.393187        ID: 0202    S Rx                DL:  8    bb 51 62 a5 bd 81 28 2b     Channel: can0
+Timestamp: 1670400916.393312        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.393528        ID: 0202    S Rx                DL:  8    01 2e fb ff ff 0f 00 2c     Channel: can0
+Timestamp: 1670400916.393695        ID: 0202    S Rx                DL:  1    a6                          Channel: can0
+Timestamp: 1670400916.393829        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.394045        ID: 0203    S Rx                DL:  8    00 59 c9 e1 2e f8 54 77     Channel: can0
+Timestamp: 1670400916.458705        ID: 0202    S Rx                DL:  8    00 bc bb 00 00 bd bb 00     Channel: can0
+Timestamp: 1670400916.459190        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.459360        ID: 0202    S Rx                DL:  8    c0 00 00 00 00 06 e7 c4     Channel: can0
+Timestamp: 1670400916.459646        ID: 0201    S Rx                DL:  8    04 46 30 55 14 04 6d 09     Channel: can0
+Timestamp: 1670400916.459822        ID: 0202    S Rx                DL:  8    bf 6a 52 29 ba f2 dd 79     Channel: can0
+Timestamp: 1670400916.460122        ID: 0201    S Rx                DL:  7    00 00 00 00 01 8a bd        Channel: can0
+Timestamp: 1670400916.460295        ID: 0202    S Rx                DL:  8    00 a7 cc 13 c1 da 92 8d     Channel: can0
+Timestamp: 1670400916.460580        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 01 6d     Channel: can0
+Timestamp: 1670400916.461128        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a a9 31     Channel: can0
+Timestamp: 1670400916.461354        ID: 0202    S Rx                DL:  8    35 30 34 20 5b 4c 2d 53     Channel: can0
+Timestamp: 1670400916.461515        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 31     Channel: can0
+Timestamp: 1670400916.461748        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400916.461882        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.462116        ID: 0203    S Rx                DL:  8    00 04 05 00 00 e0 ff a2     Channel: can0
+Timestamp: 1670400916.462293        ID: 0203    S Rx                DL:  8    55 35 04 68 04 f1 17 0f     Channel: can0
+Timestamp: 1670400916.462427        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.462656        ID: 0203    S Rx                DL:  8    00 00 00 97 05 7f 3f 58     Channel: can0
+Timestamp: 1670400916.462837        ID: 0203    S Rx                DL:  5    5e a9 bd ff f5              Channel: can0
+Timestamp: 1670400916.463125        ID: 0203    S Rx                DL:  1    02                          Channel: can0
+Timestamp: 1670400916.463297        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 82 d3        Channel: can0
+Timestamp: 1670400916.465300        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 a8 31     Channel: can0
+Timestamp: 1670400916.465540        ID: 0201    S Rx                DL:  6    a0 48 08 01 26 96           Channel: can0
+Timestamp: 1670400916.468822        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 cf 19     Channel: can0
+Timestamp: 1670400916.469077        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400916.469246        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.548915        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 d7 19     Channel: can0
+Timestamp: 1670400916.549179        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400916.549344        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.549479        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.549711        ID: 0201    S Rx                DL:  8    04 d6 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400916.549895        ID: 0201    S Rx                DL:  7    00 00 00 00 01 50 25        Channel: can0
+Timestamp: 1670400916.551825        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 1b 0f     Channel: can0
+Timestamp: 1670400916.552096        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 00 1f     Channel: can0
+Timestamp: 1670400916.552265        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400916.5524blaster04        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.552638        ID: 0202    S Rx                DL:  8    20 48 08 00 00 45 39 01     Channel: can0
+Timestamp: 1670400916.552812        ID: 0202    S Rx                DL:  8    00 36 b8 c7 04 e3 09 7f     Channel: can0
+Timestamp: 1670400916.553043        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 7a 36        Channel: can0
+Timestamp: 1670400916.553224        ID: 0202    S Rx                DL:  8    bb d9 68 a5 bd 7f 28 2b     Channel: can0
+Timestamp: 1670400916.553366        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.553607        ID: 0202    S Rx                DL:  1    0a                          Channel: can0
+Timestamp: 1670400916.554158        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 b7 31     Channel: can0
+Timestamp: 1670400916.554465        ID: 0203    S Rx                DL:  6    a0 48 08 01 c2 53           Channel: can0
+Timestamp: 1670400916.557163        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 b8 31     Channel: can0
+Timestamp: 1670400916.557401        ID: 0202    S Rx                DL:  8    20 48 08 00 01 4a 39 01     Channel: can0
+Timestamp: 1670400916.557538        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.557768        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.557928        ID: 0202    S Rx                DL:  8    00 00 00 67 f8 fe 39 3c     Channel: can0
+Timestamp: 1670400916.558218        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 05 00 fd     Channel: can0
+Timestamp: 1670400916.558377        ID: 0202    S Rx                DL:  8    ff 00 00 ff ff 4c 34 03     Channel: can0
+Timestamp: 1670400916.608886        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 dd 19     Channel: can0
+Timestamp: 1670400916.609141        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400916.609316        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.609545        ID: 0201    S Rx                DL:  8    04 dc 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400916.609853        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.610082        ID: 0201    S Rx                DL:  5    48 08 01 6c cc              Channel: can0
+Timestamp: 1670400916.611758        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 1e 0f     Channel: can0
+Timestamp: 1670400916.612008        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400916.612150        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.612381        ID: 0203    S Rx                DL:  8    55 11 04 92 04 03 06 1f     Channel: can0
+Timestamp: 1670400916.612554        ID: 0203    S Rx                DL:  8    00 3f 42 01 00 4b fc a3     Channel: can0
+Timestamp: 1670400916.612697        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.612938        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 08 1f     Channel: can0
+Timestamp: 1670400916.613110        ID: 0202    S Rx                DL:  8    3f 56 48 f8 bc ac d0 ed     Channel: can0
+Timestamp: 1670400916.613243        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.613470        ID: 0202    S Rx                DL:  8    01 2e fb ff ff 0f 00 7e     Channel: can0
+Timestamp: 1670400916.613638        ID: 0202    S Rx                DL:  1    36                          '6'    Channel: can0
+Timestamp: 1670400916.614149        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 c0 31     Channel: can0
+Timestamp: 1670400916.614396        ID: 0203    S Rx                DL:  6    a0 48 08 01 12 8a           Channel: can0
+Timestamp: 1670400916.614533        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.614757        ID: 0203    S Rx                DL:  8    00 00 f0 04 12 3b 04 12     Channel: can0
+Timestamp: 1670400916.614930        ID: 0203    S Rx                DL:  8    12 12 12 12 12 12 12 12     Channel: can0
+Timestamp: 1670400916.615170        ID: 0203    S Rx                DL:  8    12 c5 87 a5 ac 51 f4 e2     Channel: can0
+Timestamp: 1670400916.615343        ID: 0203    S Rx                DL:  8    ac 66 08 c7 ad 6d 0c 7c     Channel: can0
+Timestamp: 1670400916.615481        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.662459        ID: 0203    S Rx                DL:  8    00 00 00 8e 05 7f 3f ef     Channel: can0
+Timestamp: 1670400916.662775        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.663189        ID: 0203    S Rx                DL:  1    e9                          Channel: can0
+Timestamp: 1670400916.663485        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 8e 2f        Channel: can0
+Timestamp: 1670400916.664891        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 c7 31     Channel: can0
+Timestamp: 1670400916.665134        ID: 0201    S Rx                DL:  6    a0 48 08 01 1e 2c           Channel: can0
+Timestamp: 1670400916.668918        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 e3 19     Channel: can0
+Timestamp: 1670400916.669155        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400916.669315        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.669532        ID: 0201    S Rx                DL:  8    04 e2 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400916.669658        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.669874        ID: 0201    S Rx                DL:  7    00 00 00 00 01 4e 1e        Channel: can0
+Timestamp: 1670400916.671749        ID: 0203    S Rx                DL:  8    55 16 04 fc 04 09 21 0f     Channel: can0
+Timestamp: 1670400916.671987        ID: 0203    S Rx                DL:  8    00 3f 76 a2 ff 00 00 01     Channel: can0
+Timestamp: 1670400916.672119        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.672339        ID: 0202    S Rx                DL:  8    55 31 04 53 03 04 c9 31     Channel: can0
+Timestamp: 1670400916.672504        ID: 0202    S Rx                DL:  8    20 48 08 00 00 bd 39 01     Channel: can0
+Timestamp: 1670400916.672725        ID: 0203    S Rx                DL:  1    00                          Channel: can0
+Timestamp: 1670400916.672857        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.673084        ID: 0203    S Rx                DL:  7    00 3f 2e 80 00 e0 87        Channel: can0
+Timestamp: 1670400916.673241        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 0e 1f     Channel: can0
+Timestamp: 1670400916.673458        ID: 0202    S Rx                DL:  1    78                          'x'    Channel: can0
+Timestamp: 1670400916.673583        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.674117        ID: 0203    S Rx                DL:  8    55 0e 04 66 04 03 c9 31     Channel: can0
+Timestamp: 1670400916.674367        ID: 0203    S Rx                DL:  6    a0 48 08 01 61 af           Channel: can0
+Timestamp: 1670400916.796673        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.797062        ID: 0203    S Rx                DL:  8    55 71 04 c8 04 1d a7 10     Channel: can0
+Timestamp: 1670400916.797416        ID: 0203    S Rx                DL:  8    61 8b a2 e2 c8 7a 7f e2     Channel: can0
+Timestamp: 1670400916.797813        ID: 0202    S Rx                DL:  8    00 11 75 cb 04 00 00 10     Channel: can0
+Timestamp: 1670400916.797986        ID: 0203    S Rx                DL:  8    3e b1 34 e3 d9 0d 73 e3     Channel: can0
+Timestamp: 1670400916.798120        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.798572        ID: 0203    S Rx                DL:  8    de de de de de de de 5e     Channel: can0
+Timestamp: 1670400916.798960        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.799376        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 f0 19     Channel: can0
+Timestamp: 1670400916.799668        ID: 0203    S Rx                DL:  8    0f 65 60 b5 73 ac 63 bb     Channel: can0
+Timestamp: 1670400916.800141        ID: 0201    S Rx                DL:  7    00 00 00 00 01 81 94        Channel: can0
+Timestamp: 1670400916.800308        ID: 0203    S Rx                DL:  8    00 00 f0 04 7f af 40 62     Channel: can0
+Timestamp: 1670400916.800598        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 02 00 00     Channel: can0
+Timestamp: 1670400916.800771        ID: 0203    S Rx                DL:  8    00 2a 11 0d e1 25 0c 00     Channel: can0
+Timestamp: 1670400916.801064        ID: 0203    S Rx                DL:  8    b9 e1 e1 e1 e1 61 e1 e1     Channel: can0
+Timestamp: 1670400916.801229        ID: 0203    S Rx                DL:  8    e1 e1 49 e1 e1 e1 e1 31     Channel: can0
+Timestamp: 1670400916.801511        ID: 0202    S Rx                DL:  8    00 85 bc 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.802016        ID: 0203    S Rx                DL:  8    e1 e1 e1 91 e1 e1 e1 e1     Channel: can0
+Timestamp: 1670400916.802184        ID: 0203    S Rx                DL:  8    79 e1 e1 e1 e1 21 e1 e1     Channel: can0
+Timestamp: 1670400916.802501        ID: 0202    S Rx                DL:  8    bf 0a f2 97 38 98 74 84     Channel: can0
+Timestamp: 1670400916.802670        ID: 0203    S Rx                DL:  8    12 0d e2 25 0c 00 d0 e2     Channel: can0
+Timestamp: 1670400916.802963        ID: 0202    S Rx                DL:  8    00 28 cc 13 c1 9a a2 8d     Channel: can0
+Timestamp: 1670400916.803130        ID: 0203    S Rx                DL:  8    1d 02 1d e2 e2 40 1d 56     Channel: can0
+Timestamp: 1670400916.803412        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.803592        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 45 3e     Channel: can0
+Timestamp: 1670400916.856153        ID: 0203    S Rx                DL:  8    03 86 98 f0 ce ce ce ce     Channel: can0
+Timestamp: 1670400916.857235        ID: 0202    S Rx                DL:  8    55 b0 04 b8 03 09 e7 31     Channel: can0
+Timestamp: 1670400916.857475        ID: 0202    S Rx                DL:  8    20 48 08 00 01 76 3a 01     Channel: can0
+Timestamp: 1670400916.857612        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.857838        ID: 0202    S Rx                DL:  8    c1 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.858018        ID: 0202    S Rx                DL:  8    00 00 00 bc c8 85 ba 2a     Channel: can0
+Timestamp: 1670400916.858314        ID: 0202    S Rx                DL:  8    fb ff ff 0f 00 03 00 01     Channel: can0
+Timestamp: 1670400916.859498        ID: 0202    S Rx                DL:  8    bf bf f7 49 ba 6a 88 1f     Channel: can0
+Timestamp: 1670400916.859673        ID: 0202    S Rx                DL:  8    bc d8 1c 46 3d d3 24 81     Channel: can0
+Timestamp: 1670400916.859975        ID: 0202    S Rx                DL:  8    3b 54 56 14 3b 01 00 00     Channel: can0
+Timestamp: 1670400916.860459        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.860634        ID: 0202    S Rx                DL:  8    00 00 00 00 00 00 b8 9e     Channel: can0
+Timestamp: 1670400916.861130        ID: 0202    S Rx                DL:  8    55 32 04 06 03 0a e8 31     Channel: can0
+Timestamp: 1670400916.861362        ID: 0202    S Rx                DL:  8    36 36 34 20 5b 4c 2d 53     Channel: can0
+Timestamp: 1670400916.861526        ID: 0202    S Rx                DL:  8    00 00 0e 80 20 20 33 31     Channel: can0
+Timestamp: 1670400916.861745        ID: 0202    S Rx                DL:  8    77 20 70 6f 77 65 72 20     Channel: can0
+Timestamp: 1670400916.861884        ID: 0004    S Rx E              DL:  8    00 01 00 00 00 00 00 00     Channel: can0
+Timestamp: 1670400916.862120        ID: 0203    S Rx                DL:  8    00 04 05 00 00 e0 ff a2     Channel: can0
+Timestamp: 1670400916.862290        ID: 0203    S Rx                DL:  8    55 35 04 68 04 f1 2b 0f     Channel: can0
+Timestamp: 1670400916.862673        ID: 0203    S Rx                DL:  8    00 00 00 9e 05 7f 3f b6     Channel: can0
+Timestamp: 1670400916.863157        ID: 0203    S Rx                DL:  8    55 0f 04 a2 04 c3 21 1f     Channel: can0
+Timestamp: 1670400916.865510        ID: 0201    S Rx                DL:  8    55 0e 04 66 09 03 e7 31     Channel: can0
+Timestamp: 1670400916.865746        ID: 0201    S Rx                DL:  6    a0 48 08 01 7e a9           Channel: can0
+Timestamp: 1670400916.868865        ID: 0201    S Rx                DL:  8    55 1b 04 75 09 c3 f7 19     Channel: can0
+Timestamp: 1670400916.869099        ID: 0201    S Rx                DL:  8    00 40 00 02 10 04 03 00     Channel: can0
+Timestamp: 1670400916.869261        ID: 0201    S Rx                DL:  8    00 3f 60 00 04 20 00 01     Channel: can0
+Timestamp: 1670400916.869481        ID: 0201    S Rx                DL:  8    04 f6 19 00 04 69 08 05     Channel: can0
+Timestamp: 1670400916.869646        ID: 0201    S Rx                DL:  7    00 00 00 00 01 e0 0e        Channel: can0 
