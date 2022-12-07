@@ -1,0 +1,12 @@
+2022-12-06
+===
+Original output with sample code:
+
+Timestamp: 1670313186.882588        ID: 0004    S Rx E              DL:  8    00 04 00 00 00 00 00 00     Channel: can0  
+Timestamp: 1670313186.887829        ID: 0004    S Rx E              DL:  8    00 10 00 00 00 00 00 00     Channel: can0
+
+Output is errorneous (see 'E'); doing more comprehensive diagnostics tomorrow.
+
+2022-12-07
+===
+Fixed faulty readings from yesterday by changing CAN BUS bitrate to 1Mbps (originally 100kbps)
