@@ -14,14 +14,14 @@
 
 ### Robomaster EP CAN BUS Addresses (pulled from  JohnieBraaf / Robomaster-Micropython)
 
-| Addresss | Description |
-| --- | --- |
-| x200 | 0 self assigned |
-| x201 | 1 # main control unit <-- we use this one |
-| x202 | 2 # motion control unit |
-| x203 | 3 # gimal |
-| x204 | 4 # blaster |
-| x211 | 5 # armor back |
+| Addresss | Description | Remarks |
+| --- | --- | --- |
+| x200 | 0 | self assigned |
+| x201 | 1 | main control unit <-- we use this one |
+| x202 | 2 | motion control unit |
+| x203 | 3 | gimal |
+| x204 | 4 | blaster |
+| x211 | 5 | armor back |
 | x212 | 6 |
 | x213 | 7 |
 | x214 | 8 |
@@ -33,9 +33,9 @@
 | --- | --- |
 | 0x04 | chassis command flag |
 | 0x08 | gimbal command flag |
-| 0x1b: control message for chassis and gimbal
-| 0x15: individual wheel control
-| 0x0E, 0x0F: control message for blaster
+| 0x1b | control message for chassis and gimbal |
+| 0x15 | individual wheel control |
+| 0x0E, 0x0F | control message for blaster |
 
 ## 2022-12-06
 
