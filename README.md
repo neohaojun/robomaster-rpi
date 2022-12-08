@@ -1,4 +1,4 @@
-# Project Logbook
+# Raspberry Pi CAN Controller for DJI Robomaster
 
 ## Reference Projects
 
@@ -7,27 +7,36 @@
 * [RoboMasterS1Challenge / robomaster_s1_can_hack](https://github.com/RoboMasterS1Challenge/robomaster_s1_can_hack)  
 * [RoboMasterS1Challenge / robomaster_s1_ros_reference_design](https://github.com/RoboMasterS1Challenge/robomaster_s1_ros_reference_design)
 
+## Technologies
+
+This project was built with Python for the Raspberry Pi 4B with Waveshare's RS485 CAN HAT. It allows the RPi to control the DJI Robomaster S1 or EP without DJI's propietary Intelligent Controller.
+
+## Usage and Installation
+
+Connect the CANH and CANL wires on the Robomaster to the CANH and CANL pins on the RS485 CAN HAT. The Robomaster's CAN BUS can be intercepted at any CAN BUS port on the robot.
+
 ## Useful Information
 
 ### General
 
 * Robomaster EP CAN BUS bitrate: 1 Mbps
 
-### Robomaster EP CAN BUS Addresses
+### Robomaster EP CAN BUS Arbitration IDs
 
-| Addresss | Description | Remarks |
-| --- | --- | --- |
-| x200 | 0 | self assigned |
-| x201 | 1 | main control unit |
-| x202 | 2 | motion control unit |
-| x203 | 3 | gimbal |
-| x204 | 4 | blaster |
-| x211 | 5 | armor back |
-| x212 | 6 |
-| x213 | 7 |
-| x214 | 8 |
-| x215 | 9 |
-| x216 | 10 | 
+| ID | Description |
+| --- | --- |
+| 0x200 | self assigned |
+| 0x201 | intelligent controller |
+| 0x202 | motion controller |
+| 0x203 | pitch motor (gimbal ???) |
+| 0x204 | blaster |
+| 0x211 | chassis rear armour |
+| 0x212 | chassis front armour |
+| 0x213 | chassis right armour |
+| 0x214 | chassis left armour |
+| 0x215 | gimbal right armour |
+| 0x216 | gimbal left armour |
+| 0x221 | turret infared distance sensor |
 
 ### Flags
 | Flag | Description |
