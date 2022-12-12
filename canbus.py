@@ -1,10 +1,10 @@
-import pyb, micropython
+import can
 from buf import FrameBuffer
 
-class CanInterface(pyb.CAN):
+class CanInterface:
     def __init__(self, itf):
         self.itf = itf
-        self.can = pyb.CAN(itf)
+        self.can0 = can.Bus(interface = 'socketcan', channel = 'can0', bitrate=1000000)
 
         self.buf = FrameBuffer(64)
 
@@ -12,27 +12,25 @@ class CanInterface(pyb.CAN):
         self.init()
 
     def init(self):
-        can = self.can
+        can = self.can0
         can.init(mode=pyb.CAN.NORMAL, extframe=False, prescaler=3, sjw=1, bs1=15, bs2=2, auto_restart=True) # 1mbps @216Mhz
-        #can.init(mode=pyb.CAN.NORMAL, extframe=False, prescaler=3, sjw=1, bs1=15, bs2=2, auto_restart=True) # 1mbps @216Mhz
-        #can.init(mode=pyb.CAN.NORMAL, extframe=False, prescaler=4, sjw=1, bs1=7, bs2=1, auto_restart=True) # 1mbps @144Mhz
         can.setfilter(bank=self.itf-1, mode=pyb.CAN.MASK32, fifo=self.itf-1, params=(0x0, 0x0))
         can.rxcallback(self.itf-1, self.receive)
-        print ("CAN " + str(self.itf) + " initialized")
+        print("CAN " + str(self.itf) + " initialized")
 
     def close(self):
-        self.can.rxcallback(self.itf-1, None)
-        self.can.deinit()
+        self.can0.rxcallback(self.itf-1, None)
+        self.can0.deinit()
 
     def send(self, message):
         micropython.schedule(self.send_caller, message)
 
     def sendcb(self, message):
         print(message)
-        if self.can.info()[5] < 3:
-            self.can.send(message[3], message[0])
+        if self.can0.info()[5] < 3:
+            self.can0.send(message[3], message[0])
         else:
             print("cannot send packet on CAN" + str(self.itf) + ", TX queue is full")
 
     def receive(self, bus, reason):
-        self.can.recv(self.itf-1, self.buf.put())      
+        self.can0.recv(self.itf-1, self.buf.put())      

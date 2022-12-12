@@ -22,7 +22,6 @@ class FrameBuffer(object):
         for i in range(size):
             self.frame.append([i, 0, 0, memoryview(self.data[i])])
     
-    @micropython.native
     def put(self):
         self.next_index = (self.index_put + 1) % self.size
         if self.index_get != self.next_index:
@@ -32,7 +31,6 @@ class FrameBuffer(object):
             self.overflow += 1
             return self.empty_put_frame # buffer overflow
 
-    @micropython.native
     def get(self):
         if self.index_get != self.index_put:
             self.index_get = (self.index_get + 1) % self.size
@@ -48,13 +46,11 @@ class RingBuffer:
         self.index_get = 0
         self.count = 0
     
-    @micropython.native
     def any(self):
         if self.index_get != self.index_put:
             return True
         return False
 
-    @micropython.native
     def put(self, value):
         next_index = (self.index_put + 1) % self.size
         
@@ -66,8 +62,7 @@ class RingBuffer:
         else:
             print("overflow")
             return None  # buffer full
-    
-    @micropython.native
+
     def get(self):
         if self.any():
             value = self.data[self.index_get]

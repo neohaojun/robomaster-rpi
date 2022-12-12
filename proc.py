@@ -1,14 +1,14 @@
 import time
 import math
 from crc import Crc
-from can import CanInterface
+from canbus import CanInterface
 from msg import Message
 
 class Processor(object):
     def __init__(self):
         self.crc = Crc()
 
-        self.can1 = CanInterface(1)
+        self.can = CanInterface()
         #self.can2 = CanInterface(2)
 
         # allocate message buffer
@@ -18,7 +18,6 @@ class Processor(object):
         for i in range(self.messages_max):
             self.messages.append(Message(self.crc, self.messages_size_max))
         self.message_count = 0
-
 
     def add_byte(self, b):
         # register a new message start, or flush if buffer is full

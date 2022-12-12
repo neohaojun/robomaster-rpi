@@ -1,13 +1,13 @@
-import can
+import canbus
 from crc import Crc
 from com import Command
-import pyb, time
+import time
 
 class RoboMaster():
     def __init__(self):
 
         self.crc = Crc()
-        self.can1 = CanInterface(1)
+        self.can1 = canbus.CanInterface(1)
         self.com = Command(self)
 
         self.linear = Linear()
@@ -44,43 +44,11 @@ class RoboMaster():
 
         if self.timcount == 1001:
             self.timecount = 1
-        
-        ''''while self.com.buf.any():
-                                            pyb.CanInterfaceLED(2).on()
-                                            while (self.can1.can.info()[5] == 3):
-                                                pass # wait till TX buffer is free
-                                            self.can1.can.send(self.com.get()[3], 0x201)
-                                            pyb.LED(2).off()'''
 
         end = time.ticks_ms()
         #if end -start > 1:
         #    print('Time taken: ' + str(end - start))
         #print(str(self.timcount) + ' ' + str(self.linear.x))
-    
-    def process_tcp(self, data):     
-        '''if len(data) > 4:
-            # check header for stick type
-            if data[0] == 0x55 and data[1] == len(data) and data[2] == 0x04 and self.crc.check_crc8(data, 4):
-
-                x  = data[6] << 8 | data[7]
-                y  = data[8] << 8 | data[9]
-                rx = data[10] << 8 | data[11]
-                ry = data[12] << 8 | data[13]
-                z  = data[14] << 8 | data[15]CanInterface
-                rz = data[16] << 8 | data[17]
-                self.linear.set(-(1000 - y) / 1000, (1000 - x) / 1000, 0)
-                self.angular.set(-(1000 - ry) / 1000, (1000 - rx) / 1000, 0)
-                #print(self.angular.x)
-            else:'''
-        # try to parse command
-        if data:
-            com = data.decode()
-            #print(com)
-            if com[:4] == 'CMD:':
-                val = com[4:].split(',')
-                self.linear.set(float(val[0]), -float(val[1]), 0)
-            else:
-                print(com)
 
 
 class Linear():

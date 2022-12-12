@@ -14,7 +14,6 @@ class Message(Crc):
 
         self.flush()
 
-    @micropython.native
     def flush(self):
         self.index = 0
         self.length = 0
@@ -22,8 +21,6 @@ class Message(Crc):
         self.crc16 = False
         self.valid = True
 
-
-    @micropython.native
     def put(self, byte):
         if self.valid:
             if self.index < self.length or self.length == 0:
